@@ -1,0 +1,1 @@
+https://mybinder.org/v2/gh/Kristian0Lauridsen/minDis/HEAD?labpath=https%3A%2F%2Fgithub.com%2FKristian0Lauridsen%2FminDis%2Fblob%2Fmaster%2FAnimal_Classifier_Webapp.ipynb
